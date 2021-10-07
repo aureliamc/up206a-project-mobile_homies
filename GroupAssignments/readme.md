@@ -9,3 +9,4 @@
   2. source 2
 - ### *Scope of Work:* 
 - ### *Objectives: The "Why?"*
+  - Where one lives often determines the opportunities that are available and one's quality of life, such as basic needs resources, proximity to jobs, social determinants of health, quality of education, and general safety. As low-income and working-class communities continue to be displaced, 
