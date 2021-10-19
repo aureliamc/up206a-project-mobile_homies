@@ -1,7 +1,7 @@
 # Week 4 - Mini Group Assignment, Project Updates 
 ### Paola Tirado Escareño and Aurelia Mora
 ## **Proposal**
-  -[Mobile Homies: A Spatial Analysis of Mobile Home Parks in Los Angeles County](https://github.com/aureliamc/up206a-project-mobile_homies/blob/main/GroupAssignments/readme.md)
+  - [Mobile Homies: A Spatial Analysis of Mobile Home Parks in Los Angeles County](https://github.com/aureliamc/up206a-project-mobile_homies/blob/main/GroupAssignments/readme.md)
 ## **Roles**
   - Paola: geocoding Mobile Home park data
   - Aurelia: compiling qualatative data
