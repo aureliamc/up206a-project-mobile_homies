@@ -15,11 +15,11 @@
   * This is a new data set that we have found through the Othering and Belonging Institute at UC Berkeley. This data, compiled by the California Fair Housing Task Force identifies and visualizes place-based characteristics linked to critical life outcomes, such as educational attainment, earnings from employment, and economic
 mobility.We believe the data from this file will provide greater context to the the existing conditions in cities where MHPs are located and the access to opportunity that exists for residents in these areas. 
 - ### *Scope of Work:*
-  - Our goal is to analyze MHP that have closed down as of 2021 and those that remain open to see if the data shows us distinct differences between land use. We will:
-  -   Understand where MHP have existed/exists today.
-  -   Land-use- we know of open MHP but we also need to learn about those that have closed down. 
-  -   Demographics- we want to understand if there are key demographic differences in the areas where MHP closed and their land uses.
-  -   Explore the historical context of communities with the highest MHP concentrations to better understand how structural forces could have influenced existing conditions.
+  * Our goal is to analyze MHP that have closed down as of 2021 and those that remain open to see if the data shows us distinct differences between land use. We will:
+    -   Understand where MHP have existed/exists today.
+    -   Land-use- we know of open MHP but we also need to learn about those that have closed down. 
+    -   Demographics- we want to understand if there are key demographic differences in the areas where MHP closed and their land uses.
+    -   Explore the historical context of communities with the highest MHP concentrations to better understand how structural forces could have influenced existing conditions.
 
 - ### *Objectives: The "Why?"*
   - Where one lives often determines the opportunities that are available and one's quality of life, such as basic needs resources, proximity to jobs, social determinants of health, quality of education, and general safety. As low-income and working-class communities continue to be displaced, the need to assess all affordable housing options throughout the County becomes an increasingly pressing matter. Mobile homes present an additional affordable housing option. Mobile homes are a housing alternative often overlooked in planning. Our goal is to create a visual representation of where these homes exist in the County, and comprise a spatial analysis to better understand barriers, but also how these communities have succeeded to maintain livable habitats for county residents; both of which can help guide future planning practices for MHP residents. 
